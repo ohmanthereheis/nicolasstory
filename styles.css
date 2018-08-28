@@ -1,3 +1,19 @@
 h1 {
-  color: Blue;
+  color: purple;
+}
+
+div .container {
+  background-color: blue;
+}
+
+body {
+  color: red;
+}
+
+div .navbar {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/1a/H-Caracas_Sur.png");
+}
+
+div .login {
+  float: right;
 }
