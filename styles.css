@@ -8,6 +8,7 @@ h1 {
 
 body {
   color: #54121e;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .navbar {
@@ -18,6 +19,15 @@ h2 {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-button {
+.button {
   float: right;
+  border: 2px solid #a77eba;
+  background-color: #d2a2e8;
+  display: inline-block;
+}
+
+.button:active {
+  background-color: #ae00ff;
+  color: black;
+  transform: translateY(4px);
 }
