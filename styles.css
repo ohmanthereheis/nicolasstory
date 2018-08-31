@@ -31,3 +31,6 @@ h2 {
   color: black;
   transform: translateY(4px);
 }
+.something {
+  background-size: contain;
+}
