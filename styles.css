@@ -3,7 +3,15 @@ h1 {
 }
 
 .container {
-  background-color: #85b0f1;
+  background-color: #b484e8;
+}
+
+.wowsoblue {
+  background-color: #4286f4;
+}
+
+.redoogabooga {
+  background-color: #ad2b2b;
 }
 
 body {
@@ -13,6 +21,16 @@ body {
 
 .navbar {
   background-image: url("2000px-Color_icon_purple.svg.png");
+}
+
+.superduper {
+  background-image: url("mamma mia.JPG");
+}
+
+.heck {
+  background-image: url("h-1-.gif");
+  background-size: contain;
+
 }
 
 h2 {
